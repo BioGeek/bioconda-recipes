@@ -13,7 +13,6 @@ source:
     sha256: {{ sha256 }}
   - url: https://raw.githubusercontent.com/Noble-Lab/FDRBench/v{{ version }}/LICENSE
     sha256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
-    fn: LICENSE
 
 build:
   number: 0
