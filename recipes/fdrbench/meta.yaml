@@ -51,6 +51,8 @@ about:
     Nat Methods 22, 1454-1463 (2025). doi:10.1038/s41592-025-02719-x
 
 extra:
+  recipe-maintainers:
+    - BioGeek
   identifiers:
     - doi:10.1038/s41592-025-02719-x
   notes: |
